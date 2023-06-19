@@ -1,0 +1,5 @@
+E:/code/c++/QT/cmake-build-debug/CMakeFiles/QT.dir
+E:/code/c++/QT/cmake-build-debug/CMakeFiles/edit_cache.dir
+E:/code/c++/QT/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+E:/code/c++/QT/cmake-build-debug/CMakeFiles/QT_autogen_timestamp_deps.dir
+E:/code/c++/QT/cmake-build-debug/CMakeFiles/QT_autogen.dir

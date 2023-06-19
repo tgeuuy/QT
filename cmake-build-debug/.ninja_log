@@ -1,0 +1,19 @@
+# ninja log v5
+7	155	7088979555616076	QT_autogen/timestamp	539352dbb7226f13
+2550	2853	7088979283400248	QT.exe	ae70099497c36746
+7	155	7088979555616076	QT_autogen/mocs_compilation.cpp	539352dbb7226f13
+7	155	7088979555616076	E:/code/c++/QT/cmake-build-debug/QT_autogen/timestamp	539352dbb7226f13
+664	3395	7088977066881110	CMakeFiles/QT.dir/QT_autogen/mocs_compilation.cpp.obj	bb86a6a0f03549d9
+7	155	7088979555616076	E:/code/c++/QT/cmake-build-debug/QT_autogen/mocs_compilation.cpp	539352dbb7226f13
+2	595	7088981561313654	build.ninja	8ffac6f773eff44f
+248	2277	7088963206108892	CMakeFiles/QT.dir/main.cpp.obj	598aab37a2cf0b2b
+129	1986	7088964405113997	CMakeFiles/QT.dir/sources/main.cpp.obj	7949b34ad33344b9
+1070	4447	7088970517703718	CMakeFiles/QT.dir/sources/mainwindow.cpp.obj	ce51d6abaf171927
+673	3458	7088977067519407	CMakeFiles/QT.dir/Sources/mainwindow.cpp.obj	a347203c00dcde2b
+143	2550	7088979281862374	CMakeFiles/QT.dir/Sources/main.cpp.obj	2f1e17f57415c13e
+12	1231	7088981640622655	QT_autogen/timestamp	539352dbb7226f13
+12	1231	7088981640622655	QT_autogen/mocs_compilation.cpp	539352dbb7226f13
+12	1231	7088981640622655	E:/code/c++/QT/cmake-build-debug/QT_autogen/timestamp	539352dbb7226f13
+12	1231	7088981640622655	E:/code/c++/QT/cmake-build-debug/QT_autogen/mocs_compilation.cpp	539352dbb7226f13
+1232	4929	7088981678409265	CMakeFiles/QT.dir/QT_autogen/mocs_compilation.cpp.obj	2961ad11238da841
+1247	5016	7088981679281709	CMakeFiles/QT.dir/Sources/mainwindow.cpp.obj	67183d768b15bb82
